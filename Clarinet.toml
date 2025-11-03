@@ -1,12 +1,12 @@
 [project]
-name = "layicoin-contract"
+name = "layibit"
 description = ""
 authors = []
 telemetry = true
 cache_dir = "./.cache"
 
-[contracts.layicoin]
-path = "contracts/layicoin.clar"
+[contracts.layibit]
+path = "contracts/layibit.clar"
 epoch = "latest"
 
 [repl.analysis]
